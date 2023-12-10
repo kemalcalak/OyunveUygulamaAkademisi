@@ -1,0 +1,14 @@
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\bin\Debug\net8.0\GoogleApp.exe
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\bin\Debug\net8.0\GoogleApp.deps.json
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\bin\Debug\net8.0\GoogleApp.runtimeconfig.json
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\bin\Debug\net8.0\GoogleApp.dll
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\bin\Debug\net8.0\GoogleApp.pdb
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\obj\Debug\net8.0\GoogleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\obj\Debug\net8.0\GoogleApp.AssemblyInfoInputs.cache
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\obj\Debug\net8.0\GoogleApp.AssemblyInfo.cs
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\obj\Debug\net8.0\GoogleApp.csproj.CoreCompileInputs.cache
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\obj\Debug\net8.0\GoogleApp.dll
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\obj\Debug\net8.0\refint\GoogleApp.dll
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\obj\Debug\net8.0\GoogleApp.pdb
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\obj\Debug\net8.0\GoogleApp.genruntimeconfig.cache
+C:\Kodlar\Oyun ve Uygulama Akademisi\Programlamaya Giriş\GoogleApp\GoogleApp\obj\Debug\net8.0\ref\GoogleApp.dll
